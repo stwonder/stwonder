@@ -1,5 +1,3 @@
-<!--
-**stwonder/stwonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi, I'm Steven Teo 张荣坚 👋
 
